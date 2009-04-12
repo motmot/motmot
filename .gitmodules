@@ -4,3 +4,6 @@
 [submodule "FlyMovieFormat"]
 	path = FlyMovieFormat
 	url = git://github.com/motmot/flymovieformat.git
+[submodule "FastImage"]
+	path = FastImage
+	url = git://github.com/motmot/fastimage.git
