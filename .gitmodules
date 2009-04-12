@@ -1,0 +1,3 @@
+[submodule "libcamiface"]
+	path = libcamiface
+	url = git://github.com/motmot/libcamiface.git
