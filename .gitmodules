@@ -1,3 +1,6 @@
 [submodule "libcamiface"]
 	path = libcamiface
 	url = git://github.com/motmot/libcamiface.git
+[submodule "FlyMovieFormat"]
+	path = FlyMovieFormat
+	url = git://github.com/motmot/flymovieformat.git
