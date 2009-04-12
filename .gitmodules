@@ -7,3 +7,6 @@
 [submodule "FastImage"]
 	path = FastImage
 	url = git://github.com/motmot/fastimage.git
+[submodule "doc"]
+	path = doc
+	url = git://github.com/motmot/doc.git
