@@ -16,4 +16,4 @@ of the entire repository::
   git submodule init
   git submodule update
 
-__http://www.kernel.org/pub/software/scm/git/docs/git-submodule.html
+__ http://www.kernel.org/pub/software/scm/git/docs/git-submodule.html
