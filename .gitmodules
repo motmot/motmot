@@ -16,3 +16,6 @@
 [submodule "flytrax"]
 	path = flytrax
 	url = git://github.com/motmot/flytrax.git
+[submodule "fview"]
+	path = fview
+	url = git://github.com/motmot/fview.git
