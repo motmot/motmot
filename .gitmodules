@@ -13,3 +13,6 @@
 [submodule "realtime_image_analysis"]
 	path = realtime_image_analysis
 	url = git://github.com/motmot/realtime_image_analysis.git
+[submodule "flytrax"]
+	path = flytrax
+	url = git://github.com/motmot/flytrax.git
