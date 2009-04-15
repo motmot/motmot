@@ -28,3 +28,6 @@
 [submodule "pygxinput"]
 	path = pygxinput
 	url = git://github.com/motmot/pygxinput.git
+[submodule "wxglvideo"]
+	path = wxglvideo
+	url = git://github.com/motmot/wxglvideo.git
