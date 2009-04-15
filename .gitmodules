@@ -22,3 +22,6 @@
 [submodule "pycamiface"]
 	path = pycamiface
 	url = git://github.com/motmot/pycamiface.git
+[submodule "pygarrayimage"]
+	path = pygarrayimage
+	url = git://github.com/motmot/pygarrayimage.git
