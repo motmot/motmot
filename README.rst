@@ -16,4 +16,20 @@ of the entire repository::
   git submodule init
   git submodule update
 
+To update all packages from github::
+
+  git fetch
+  git merge origin/master
+  git submodule update --init
+  git submodule update
+
+(Note that this changes what is checked out in the submodules, and may
+result in a detached HEAD! You may want to do ``git checkout master``
+in the newly updated submodule directories.)
+
+To add a new submodule, upload it normally to github. Then, add
+it. For example, with pycamiface, this was used:
+
+  git submodule add git://github.com/motmot/pycamiface.git pycamiface
+
 __ http://www.kernel.org/pub/software/scm/git/docs/git-submodule.html
