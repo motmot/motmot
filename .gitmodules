@@ -25,3 +25,6 @@
 [submodule "pygarrayimage"]
 	path = pygarrayimage
 	url = git://github.com/motmot/pygarrayimage.git
+[submodule "pygxinput"]
+	path = pygxinput
+	url = git://github.com/motmot/pygxinput.git
