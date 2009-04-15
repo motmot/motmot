@@ -19,3 +19,6 @@
 [submodule "fview"]
 	path = fview
 	url = git://github.com/motmot/fview.git
+[submodule "pycamiface"]
+	path = pycamiface
+	url = git://github.com/motmot/pycamiface.git
