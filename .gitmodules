@@ -31,3 +31,6 @@
 [submodule "wxglvideo"]
 	path = wxglvideo
 	url = git://github.com/motmot/wxglvideo.git
+[submodule "wxvideo"]
+	path = wxvideo
+	url = git://github.com/motmot/wxvideo.git
