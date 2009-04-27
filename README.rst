@@ -13,8 +13,7 @@ of the entire repository::
 
   git clone git://github.com/motmot/motmot.git
   cd motmot
-  git submodule init
-  git submodule update
+  git submodule update --init
 
 To update all packages from github::
 
