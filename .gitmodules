@@ -34,3 +34,6 @@
 [submodule "wxvideo"]
 	path = wxvideo
 	url = git://github.com/motmot/wxvideo.git
+[submodule "imops"]
+	path = imops
+	url = git://github.com/motmot/imops.git
