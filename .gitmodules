@@ -37,3 +37,6 @@
 [submodule "imops"]
 	path = imops
 	url = git://github.com/motmot/imops.git
+[submodule "fview_periodic_trigger"]
+	path = fview_periodic_trigger
+	url = git://github.com/motmot/fview_periodic_trigger.git
