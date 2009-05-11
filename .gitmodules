@@ -43,3 +43,6 @@
 [submodule "fview_change_trigger"]
 	path = fview_change_trigger
 	url = git://github.com/motmot/fview_change_trigger.git
+[submodule "utils"]
+	path = utils
+	url = git://github.com/motmot/utils.git
