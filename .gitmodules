@@ -46,3 +46,6 @@
 [submodule "utils"]
 	path = utils
 	url = git://github.com/motmot/utils.git
+[submodule "wxvalidatedtext"]
+	path = wxvalidatedtext
+	url = git://github.com/motmot/wxvalidatedtext
