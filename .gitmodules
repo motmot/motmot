@@ -49,3 +49,6 @@
 [submodule "wxvalidatedtext"]
 	path = wxvalidatedtext
 	url = git://github.com/motmot/wxvalidatedtext
+[submodule "fview_ext_trig"]
+	path = fview_ext_trig
+	url = git://github.com/motmot/fview_ext_trig.git
