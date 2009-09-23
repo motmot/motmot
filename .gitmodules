@@ -55,3 +55,6 @@
 [submodule "fview_histogram"]
 	path = fview_histogram
 	url = git://github.com/motmot/fview_histogram.git
+[submodule "ufmf"]
+	path = ufmf
+	url = git://github.com/motmot/ufmf.git
