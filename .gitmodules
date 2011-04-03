@@ -58,3 +58,6 @@
 [submodule "ufmf"]
 	path = ufmf
 	url = git://github.com/motmot/ufmf.git
+[submodule "strokelitude"]
+	path = strokelitude
+	url = git://github.com/motmot/strokelitude.git
