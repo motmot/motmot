@@ -61,3 +61,6 @@
 [submodule "strokelitude"]
 	path = strokelitude
 	url = git://github.com/motmot/strokelitude.git
+[submodule "strokelitude-jfi-emulator"]
+	path = strokelitude-jfi-emulator
+	url = git://github.com/motmot/strokelitude-jfi-emulator.git
