@@ -67,3 +67,6 @@
 [submodule "strokelitude-jfi-emulator"]
 	path = strokelitude-jfi-emulator
 	url = git://github.com/motmot/strokelitude-jfi-emulator.git
+[submodule "strokelitude_ros"]
+	path = strokelitude_ros
+	url = git://github.com/motmot/strokelitude_ros.git
