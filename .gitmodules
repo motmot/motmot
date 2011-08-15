@@ -73,3 +73,6 @@
 [submodule "camiface_ros"]
 	path = camiface_ros
 	url = git://github.com/motmot/camiface_ros.git
+[submodule "fview_ros"]
+	path = fview_ros
+	url = git://github.com/motmot/fview_ros.git
