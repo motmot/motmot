@@ -76,3 +76,6 @@
 [submodule "fview_ros"]
 	path = fview_ros
 	url = git://github.com/motmot/fview_ros.git
+[submodule "motmot_ros_stack"]
+	path = motmot_ros_stack
+	url = git://github.com/motmot/motmot_ros_stack.git
