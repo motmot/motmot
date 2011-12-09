@@ -79,3 +79,6 @@
 [submodule "motmot_ros_stack"]
 	path = motmot_ros_stack
 	url = git://github.com/motmot/motmot_ros_stack.git
+[submodule "fview_SphereTrax"]
+	path = fview_SphereTrax
+	url = git://github.com/strawlab/fview_SphereTrax.git
