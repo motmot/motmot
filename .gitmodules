@@ -1,84 +1,84 @@
 [submodule "libcamiface"]
 	path = libcamiface
-	url = git://github.com/motmot/libcamiface.git
+	url = https://github.com/motmot/libcamiface.git
 [submodule "FlyMovieFormat"]
 	path = FlyMovieFormat
-	url = git://github.com/motmot/flymovieformat.git
+	url = https://github.com/motmot/flymovieformat.git
 [submodule "FastImage"]
 	path = FastImage
-	url = git://github.com/motmot/fastimage.git
+	url = https://github.com/motmot/fastimage.git
 [submodule "doc"]
 	path = doc
-	url = git://github.com/motmot/doc.git
+	url = https://github.com/motmot/doc.git
 [submodule "realtime_image_analysis"]
 	path = realtime_image_analysis
-	url = git://github.com/motmot/realtime_image_analysis.git
+	url = https://github.com/motmot/realtime_image_analysis.git
 [submodule "flytrax"]
 	path = flytrax
-	url = git://github.com/motmot/flytrax.git
+	url = https://github.com/motmot/flytrax.git
 [submodule "fview"]
 	path = fview
-	url = git://github.com/motmot/fview.git
+	url = https://github.com/motmot/fview.git
 [submodule "pycamiface"]
 	path = pycamiface
-	url = git://github.com/motmot/pycamiface.git
+	url = https://github.com/motmot/pycamiface.git
 [submodule "pygarrayimage"]
 	path = pygarrayimage
-	url = git://github.com/motmot/pygarrayimage.git
+	url = https://github.com/motmot/pygarrayimage.git
 [submodule "pygxinput"]
 	path = pygxinput
-	url = git://github.com/motmot/pygxinput.git
+	url = https://github.com/motmot/pygxinput.git
 [submodule "wxglvideo"]
 	path = wxglvideo
-	url = git://github.com/motmot/wxglvideo.git
+	url = https://github.com/motmot/wxglvideo.git
 [submodule "wxvideo"]
 	path = wxvideo
-	url = git://github.com/motmot/wxvideo.git
+	url = https://github.com/motmot/wxvideo.git
 [submodule "imops"]
 	path = imops
-	url = git://github.com/motmot/imops.git
+	url = https://github.com/motmot/imops.git
 [submodule "fview_periodic_trigger"]
 	path = fview_periodic_trigger
-	url = git://github.com/motmot/fview_periodic_trigger.git
+	url = https://github.com/motmot/fview_periodic_trigger.git
 [submodule "fview_change_trigger"]
 	path = fview_change_trigger
-	url = git://github.com/motmot/fview_change_trigger.git
+	url = https://github.com/motmot/fview_change_trigger.git
 [submodule "utils"]
 	path = utils
-	url = git://github.com/motmot/utils.git
+	url = https://github.com/motmot/utils.git
 [submodule "wxvalidatedtext"]
 	path = wxvalidatedtext
-	url = git://github.com/motmot/wxvalidatedtext
+	url = https://github.com/motmot/wxvalidatedtext
 [submodule "fview_ext_trig"]
 	path = fview_ext_trig
-	url = git://github.com/motmot/fview_ext_trig.git
+	url = https://github.com/motmot/fview_ext_trig.git
 [submodule "fview_histogram"]
 	path = fview_histogram
-	url = git://github.com/motmot/fview_histogram.git
+	url = https://github.com/motmot/fview_histogram.git
 [submodule "ufmf"]
 	path = ufmf
-	url = git://github.com/motmot/ufmf.git
+	url = https://github.com/motmot/ufmf.git
 [submodule "trackem"]
 	path = trackem
-	url = git://github.com/motmot/trackem.git
+	url = https://github.com/motmot/trackem.git
 [submodule "strokelitude"]
 	path = strokelitude
-	url = git://github.com/motmot/strokelitude.git
+	url = https://github.com/motmot/strokelitude.git
 [submodule "strokelitude-jfi-emulator"]
 	path = strokelitude-jfi-emulator
-	url = git://github.com/motmot/strokelitude-jfi-emulator.git
+	url = https://github.com/motmot/strokelitude-jfi-emulator.git
 [submodule "strokelitude_ros"]
 	path = strokelitude_ros
-	url = git://github.com/motmot/strokelitude_ros.git
+	url = https://github.com/motmot/strokelitude_ros.git
 [submodule "camiface_ros"]
 	path = camiface_ros
-	url = git://github.com/motmot/camiface_ros.git
+	url = https://github.com/motmot/camiface_ros.git
 [submodule "fview_ros"]
 	path = fview_ros
-	url = git://github.com/motmot/fview_ros.git
+	url = https://github.com/motmot/fview_ros.git
 [submodule "motmot_ros_stack"]
 	path = motmot_ros_stack
-	url = git://github.com/motmot/motmot_ros_stack.git
+	url = https://github.com/motmot/motmot_ros_stack.git
 [submodule "fview_SphereTrax"]
 	path = fview_SphereTrax
-	url = git://github.com/strawlab/fview_SphereTrax.git
+	url = https://github.com/strawlab/fview_SphereTrax.git
